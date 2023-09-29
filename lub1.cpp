@@ -1,8 +1,9 @@
 ﻿#include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main() {
-	int a, b;
+	double a, b;
 	cout << "введите два числа: ";
 	cin >> a >> b;
 
@@ -28,6 +29,9 @@ int main() {
 		d = b;
 
 	cout << "разность максимального и минимального = " << (c - d) << endl;
+	float f;
+	f= a / b ;
+	cout << "частное введенных чисел a и b с точностью до сотых = " << setprecision(2) << fixed << f << endl;
 
 
 }
