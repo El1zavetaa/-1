@@ -7,7 +7,7 @@
 # Описание того, в какой среде программирования можно открыть проект, какой файл проекта следует открывать, каким образом запускать вашу программу, и как ей пользоваться
 Проект можно открыть в Visual Studio Code, как файл проекта lub1, так и lub2
 # Скриншоты тестов
-![Screenshot1](тест 1.jpg)
-![Screenshot2](тест 2.jpg)
-![Screenshot3](тест 3.jpg)
-![Screenshot4](тест 4.jpg)
+![alt text](https://github.com/El1zavetaa/-1/blob/main/тест%201.jpg)
+![alt text](https://github.com/El1zavetaa/-1/blob/main/тест%202.jpg)
+![alt text](https://github.com/El1zavetaa/-1/blob/main/тест%203.jpg)
+![alt text](https://github.com/El1zavetaa/-1/blob/main/тест%204.jpg)
