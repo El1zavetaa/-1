@@ -1,9 +1,11 @@
 #include <iostream>;
 #include <sstream>;
-
+#include <windows.h>
 using namespace std;
 
 int main() {
+	SetConsoleCP(1251);
+	SetConsoleOutputCP(1251);
 	string a, b, c;
 	int d, f;
 	cout << "какое у тебя имя?" << endl;
