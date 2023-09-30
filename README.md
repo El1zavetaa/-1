@@ -8,7 +8,8 @@
 Проект можно открыть в среде разработки dev c++, как файл проекта lub1, так и lub2, запускатть через dev c++, нажав на кнопку F11.
 Либо проект можно открыть, добавив репозиторий в Visual Studio Code и запустить (F5).
 # Скриншоты тестов
-![alt text](https://github.com/El1zavetaa/-1/blob/main/тест%201.jpg)
-![alt text](https://github.com/El1zavetaa/-1/blob/main/тест%202.jpg)
-![alt text](https://github.com/El1zavetaa/-1/blob/main/тест%203.jpg)
-![alt text](https://github.com/El1zavetaa/-1/blob/main/тест%204.jpg)
+тест первой программы
+![alt text](https://github.com/El1zavetaa/-1/blob/main/тест%201.png)
+тест второй программы
+![alt text](https://github.com/El1zavetaa/-1/blob/main/тест%202.png)
+
